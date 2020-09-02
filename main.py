@@ -7,4 +7,5 @@ if __name__ == '__main__':
     c = con.cursor()
     ###check if the table exist
 
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
